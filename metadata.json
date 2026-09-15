@@ -1,0 +1,7 @@
+{
+  "name": "Espetaria do Fábio",
+  "description": "Espetos artesanais na brasa, petiscos variados e cerveja gelada em Arapongas - PR. Faça seu pedido direto pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
